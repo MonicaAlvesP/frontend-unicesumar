@@ -5,10 +5,16 @@ Este repositório contém os materiais e exemplos desenvolvidos durante as aulas
 ## Estrutura do Repositório
 
 - **`aula-01/`**: Contém os arquivos da primeira aula, incluindo o exemplo de página HTML e os estilos associados.
+
   - **`index.html`**: Página principal com exemplos de estrutura HTML.
   - **`assets/`**: Pasta de recursos, como estilos e imagens.
     - **`css/style.css`**: Arquivo de estilos CSS para a página.
     - **`img/`**: Pasta para armazenar imagens utilizadas no projeto.
+
+- **`aula-02/`**: Contém os arquivos da segunda aula, com foco na estilização utilizando CSS externo.
+  - **`index.html`**: Página principal com exemplos de estilização CSS.
+  - **`assets/`**: Pasta de recursos, como estilos e imagens.
+    - **`css/style.css`**: Arquivo de estilos CSS para a página.
 
 ## Objetivo
 
